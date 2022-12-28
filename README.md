@@ -14,4 +14,4 @@ I'm Lizzy, a software developer and computer science educator based out of Kona,
 
 • 😄 Pronouns: she/her
 
-• ⚡ Fun fact: I was a contestant on Wheel of Fortune. I made it to the bonus round and won a trip to the Canadian Rockies!
+• ⚡ Fun fact: I was a contestant on Wheel of Fortune. I made it to the bonus round and won a trip to the Canadian Rockies.
