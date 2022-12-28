@@ -1,16 +1,13 @@
-### Hi there 👋
+Aloha! 🤙
 
-<!--
-**lizzypine/lizzypine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• 🔭 I’m currently working on Kona Swim Hub, a full-stack web application to help Hawaii-based families find local swim lessons for their kids.
 
-Here are some ideas to get you started:
+• 🌱 I’m currently learning React and Django.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• 👯 I’m looking to collaborate on any team project. I'd love to contribute to something that's too big to be a solo effort.
+
+• 📫 How to reach me: Drop me a line at elizabethpine4@gmail.com
+
+• 😄 Pronouns: she/her
+
+• ⚡ Fun fact: I was a contestant on Wheel of Fortune. I made it to the bonus round and won a trip to the Canadian Rockies!
