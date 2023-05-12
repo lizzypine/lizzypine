@@ -2,9 +2,9 @@ Aloha! 🤙
 
 I'm Lizzy, a software developer and computer science educator based in Kona, Hawaii.
 
-• 🔭 I’m currently working on Kona Swim Hub, a full-stack web application to help Hawaii-based families find local swim lessons for their kids.
+• 🔭 I’m currently working on an "internet of things" project.
 
-• 🌱 I’m currently learning React, Redux, and React Framer Motion.
+• 🌱 I’m currently learning about React and relational databases.
 
 • 👯 I’m looking to collaborate on any team project. I'd love to contribute to something that's too big to be a solo effort.
 
