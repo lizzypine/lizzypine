@@ -4,7 +4,7 @@ I'm Lizzy, a software developer and computer science educator based in Kona, Haw
 
 • 🔭 I’m currently working on an "internet of things" project.
 
-• 🌱 I’m currently learning about React and relational databases.
+• 🌱 I’m currently learning about AWS.
 
 • 👯 I’m looking to collaborate on any team project. I'd love to contribute to something that's too big to be a solo effort.
 
