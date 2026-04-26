@@ -2,7 +2,7 @@ Aloha! 🤙
 
 I'm Lizzy, a software developer based in Kona, Hawaii.
 
-• 🌱 I’m currently learning about Kafka.
+• 🌱 I’m currently learning about using MCP tools.
 
 • 👯 I’m looking to collaborate on any team project.
 
